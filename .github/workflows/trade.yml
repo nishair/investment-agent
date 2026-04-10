@@ -1,0 +1,37 @@
+name: Trading Agent
+
+on:
+  schedule:
+    # Run every 30 min, Mon-Fri 9:30am-4pm ET (13:30-20:00 UTC)
+    # and 24/7 for crypto on weekends (every 2 hours)
+    - cron: "*/30 13-20 * * 1-5"  # Weekday market hours
+    - cron: "0 */2 * * 0,6"       # Weekends (crypto only)
+  workflow_dispatch: {}            # Manual trigger button
+
+jobs:
+  trade:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run trading cycle
+        run: python3 main.py run
+
+      - name: Commit portfolio state
+        run: |
+          git config user.name "Trading Bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add data/
+          git diff --staged --quiet || git commit -m "trade: update portfolio $(date -u +%Y-%m-%dT%H:%M)"
+          git push

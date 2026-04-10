@@ -1,0 +1,47 @@
+[
+  {
+    "ticker": "TQQQ",
+    "side": "buy",
+    "shares": 0.306373,
+    "price": 48.959999084472656,
+    "value": 15.0,
+    "reason": "score=+0.23 rsi=59 mom=10.3% bb=0.90",
+    "timestamp": "2026-04-09T23:48:51.444573"
+  },
+  {
+    "ticker": "NIO",
+    "side": "buy",
+    "shares": 2.47117,
+    "price": 6.070000171661377,
+    "value": 15.0,
+    "reason": "score=+0.22 rsi=57 mom=5.0% bb=0.66",
+    "timestamp": "2026-04-09T23:48:51.446066"
+  },
+  {
+    "ticker": "FNGU",
+    "side": "buy",
+    "shares": 0.784519,
+    "price": 19.1200008392334,
+    "value": 15.0,
+    "reason": "score=+0.21 rsi=57 mom=12.1% bb=0.77",
+    "timestamp": "2026-04-09T23:48:51.447313"
+  },
+  {
+    "ticker": "DOGE-USD",
+    "side": "buy",
+    "shares": 162.063644,
+    "price": 0.09255623072385788,
+    "value": 15.0,
+    "reason": "score=+0.18 rsi=49 mom=0.4% bb=0.56",
+    "timestamp": "2026-04-09T23:48:51.448535"
+  },
+  {
+    "ticker": "AVAX-USD",
+    "side": "buy",
+    "shares": 1.608336,
+    "price": 9.326409339904785,
+    "value": 15.0,
+    "reason": "score=+0.18 rsi=52 mom=4.7% bb=0.70",
+    "timestamp": "2026-04-09T23:48:51.449826"
+  }
+]
