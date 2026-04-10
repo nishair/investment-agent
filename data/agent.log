@@ -1,0 +1,30 @@
+2026-04-10 14:16:12,602 [INFO] ==================================================
+2026-04-10 14:16:12,602 [INFO] Starting trading cycle
+2026-04-10 14:16:13,493 [INFO] Scanning 28 assets...
+2026-04-10 14:16:16,761 [INFO] Got signals for 28 assets
+2026-04-10 14:16:16,761 [INFO]   RIVN       score=+0.23  price=$15.73  rsi=53  mom=3.4%  vol_ratio=0.2
+2026-04-10 14:16:16,761 [INFO]   AFRM       score=+0.23  price=$49.44  rsi=54  mom=12.8%  vol_ratio=0.1
+2026-04-10 14:16:16,761 [INFO]   SOL-USD    score=+0.20  price=$84.41  rsi=50  mom=1.6%  vol_ratio=2.2
+2026-04-10 14:16:16,761 [INFO]   AVAX-USD   score=+0.23  price=$9.36  rsi=53  mom=5.1%  vol_ratio=1.3
+2026-04-10 14:16:16,761 [INFO]   TQQQ       score=+0.23  price=$49.42  rsi=60  mom=19.9%  vol_ratio=0.2
+2026-04-10 14:16:16,761 [INFO]   UPRO       score=+0.23  price=$110.89  rsi=60  mom=16.5%  vol_ratio=0.2
+2026-04-10 14:16:16,761 [INFO]   SPXL       score=+0.23  price=$211.45  rsi=60  mom=16.5%  vol_ratio=0.2
+2026-04-10 14:16:16,761 [INFO] Max positions reached, skipping buys
+2026-04-10 14:16:16,840 [INFO] 
+==================================================
+  PORTFOLIO SUMMARY
+==================================================
+  Cash:          $25.00
+  Positions:     5
+  Total Value:   $101.84
+  P&L:           $+1.84 (+1.8%)
+  Target:        $200.00 (need +98.16)
+  Trades Made:   5
+==================================================
+  OPEN POSITIONS:
+    TQQQ        0.3064 shares @ $48.96  now $49.42  val=$15.14  +0.9%
+    NIO         2.4712 shares @ $6.07  now $6.59  val=$16.28  +8.6%
+    FNGU        0.7845 shares @ $19.12  now $19.48  val=$15.28  +1.9%
+    DOGE-USD    162.0636 shares @ $0.09  now $0.09  val=$15.08  +0.5%
+    AVAX-USD    1.6083 shares @ $9.33  now $9.36  val=$15.06  +0.4%
+==================================================
