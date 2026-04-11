@@ -460,3 +460,33 @@
     DOGE-USD    162.0636 shares @ $0.09  now $0.09  val=$15.02  +0.2%
     AVAX-USD    1.6083 shares @ $9.33  now $9.28  val=$14.92  -0.5%
 ==================================================
+2026-04-11 16:33:30,021 [INFO] ==================================================
+2026-04-11 16:33:30,021 [INFO] Starting trading cycle
+2026-04-11 16:33:30,636 [INFO] Scanning 28 assets...
+2026-04-11 16:33:33,274 [INFO] Got signals for 28 assets
+2026-04-11 16:33:33,275 [INFO]   RIVN       score=+0.23  price=$15.43  rsi=51  mom=1.4%  vol_ratio=0.7
+2026-04-11 16:33:33,275 [INFO]   NIO        score=+0.31  price=$6.50  rsi=63  mom=16.9%  vol_ratio=1.4
+2026-04-11 16:33:33,275 [INFO]   AFRM       score=+0.23  price=$48.53  rsi=51  mom=10.7%  vol_ratio=0.7
+2026-04-11 16:33:33,275 [INFO]   SOL-USD    score=+0.20  price=$84.72  rsi=50  mom=4.3%  vol_ratio=2.2
+2026-04-11 16:33:33,275 [INFO]   TQQQ       score=+0.23  price=$49.17  rsi=59  mom=19.3%  vol_ratio=0.6
+2026-04-11 16:33:33,275 [INFO]   UPRO       score=+0.23  price=$110.01  rsi=59  mom=15.6%  vol_ratio=0.6
+2026-04-11 16:33:33,275 [INFO]   SPXL       score=+0.23  price=$209.76  rsi=59  mom=15.6%  vol_ratio=1.0
+2026-04-11 16:33:33,275 [INFO] Max positions reached, skipping buys
+2026-04-11 16:33:33,352 [INFO] 
+==================================================
+  PORTFOLIO SUMMARY
+==================================================
+  Cash:          $25.00
+  Positions:     5
+  Total Value:   $101.61
+  P&L:           $+1.61 (+1.6%)
+  Target:        $200.00 (need +98.39)
+  Trades Made:   5
+==================================================
+  OPEN POSITIONS:
+    TQQQ        0.3064 shares @ $48.96  now $49.17  val=$15.06  +0.4%
+    NIO         2.4712 shares @ $6.07  now $6.50  val=$16.06  +7.1%
+    FNGU        0.7845 shares @ $19.12  now $19.57  val=$15.35  +2.4%
+    DOGE-USD    162.0636 shares @ $0.09  now $0.09  val=$15.06  +0.4%
+    AVAX-USD    1.6083 shares @ $9.33  now $9.37  val=$15.07  +0.5%
+==================================================
