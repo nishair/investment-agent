@@ -952,3 +952,35 @@
     DOGE-USD    162.0636 shares @ $0.09  now $0.09  val=$14.90  -0.7%
     AVAX-USD    1.6083 shares @ $9.33  now $9.22  val=$14.83  -1.1%
 ==================================================
+2026-04-13 16:11:06,203 [INFO] ==================================================
+2026-04-13 16:11:06,203 [INFO] Starting trading cycle
+2026-04-13 16:11:07,803 [INFO] Scanning 28 assets...
+2026-04-13 16:11:14,301 [INFO] Got signals for 28 assets
+2026-04-13 16:11:14,301 [INFO]   NVDA       score=+0.20  price=$188.29  rsi=61  mom=12.4%  vol_ratio=0.4
+2026-04-13 16:11:14,301 [INFO]   SOFI       score=+0.20  price=$16.61  rsi=45  mom=9.1%  vol_ratio=0.4
+2026-04-13 16:11:14,302 [INFO]   NIO        score=+0.20  price=$6.48  rsi=63  mom=22.0%  vol_ratio=0.4
+2026-04-13 16:11:14,302 [INFO]   RBLX       score=+0.27  price=$58.40  rsi=50  mom=11.6%  vol_ratio=0.5
+2026-04-13 16:11:14,302 [INFO]   BTC-USD    score=+0.20  price=$71877.17  rsi=56  mom=7.4%  vol_ratio=1.0
+2026-04-13 16:11:14,302 [INFO]   ETH-USD    score=+0.20  price=$2210.42  rsi=56  mom=7.6%  vol_ratio=1.0
+2026-04-13 16:11:14,302 [INFO]   TQQQ       score=+0.23  price=$49.37  rsi=60  mom=27.3%  vol_ratio=0.4
+2026-04-13 16:11:14,302 [INFO]   UPRO       score=+0.23  price=$110.20  rsi=59  mom=22.2%  vol_ratio=0.4
+2026-04-13 16:11:14,302 [INFO]   SPXL       score=+0.23  price=$210.09  rsi=59  mom=22.1%  vol_ratio=0.3
+2026-04-13 16:11:14,302 [INFO] Max positions reached, skipping buys
+2026-04-13 16:11:14,491 [INFO] 
+==================================================
+  PORTFOLIO SUMMARY
+==================================================
+  Cash:          $25.00
+  Positions:     5
+  Total Value:   $101.22
+  P&L:           $+1.22 (+1.2%)
+  Target:        $200.00 (need +98.78)
+  Trades Made:   5
+==================================================
+  OPEN POSITIONS:
+    TQQQ        0.3064 shares @ $48.96  now $49.35  val=$15.12  +0.8%
+    NIO         2.4712 shares @ $6.07  now $6.48  val=$16.01  +6.8%
+    FNGU        0.7845 shares @ $19.12  now $19.73  val=$15.48  +3.2%
+    DOGE-USD    162.0636 shares @ $0.09  now $0.09  val=$14.84  -1.1%
+    AVAX-USD    1.6083 shares @ $9.33  now $9.19  val=$14.77  -1.5%
+==================================================
