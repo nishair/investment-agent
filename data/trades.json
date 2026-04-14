@@ -52,5 +52,14 @@
     "value": 8.72,
     "reason": "take-profit at 16.3%",
     "timestamp": "2026-04-14T17:42:47.096186"
+  },
+  {
+    "ticker": "FNGU",
+    "side": "sell",
+    "shares": 0.19613,
+    "price": 22.059999465942383,
+    "value": 4.33,
+    "reason": "take-profit at 15.4%",
+    "timestamp": "2026-04-14T19:12:20.726934"
   }
 ]
