@@ -1374,3 +1374,34 @@
     DOGE-USD    162.0636 shares @ $0.09  now $0.09  val=$15.39  +2.6%
     AVAX-USD    1.6083 shares @ $9.33  now $9.46  val=$15.21  +1.4%
 ==================================================
+2026-04-15 20:02:20,859 [INFO] ==================================================
+2026-04-15 20:02:20,860 [INFO] Starting trading cycle
+2026-04-15 20:02:21,623 [INFO] TAKE PROFIT: FNGU at 22.9% — selling 50%
+2026-04-15 20:02:21,624 [INFO] Scanning 28 assets...
+2026-04-15 20:02:24,556 [INFO] Got signals for 28 assets
+2026-04-15 20:02:24,556 [INFO]   TSLA       score=+0.30  price=$391.95  rsi=58  mom=5.4%  vol_ratio=1.6
+2026-04-15 20:02:24,556 [INFO]   COIN       score=+0.23  price=$195.90  rsi=59  mom=12.2%  vol_ratio=1.1
+2026-04-15 20:02:24,557 [INFO]   MSTR       score=+0.23  price=$143.54  rsi=60  mom=15.0%  vol_ratio=0.7
+2026-04-15 20:02:24,557 [INFO]   DKNG       score=+0.20  price=$23.64  rsi=52  mom=9.3%  vol_ratio=0.6
+2026-04-15 20:02:24,557 [INFO]   HOOD       score=+0.45  price=$87.32  rsi=68  mom=26.0%  vol_ratio=2.3
+2026-04-15 20:02:24,557 [INFO]   ETH-USD    score=+0.20  price=$2371.37  rsi=63  mom=12.4%  vol_ratio=1.0
+2026-04-15 20:02:24,557 [INFO]   XRP-USD    score=+0.23  price=$1.40  rsi=55  mom=5.4%  vol_ratio=1.4
+2026-04-15 20:02:24,557 [INFO] Max positions reached, skipping buys
+2026-04-15 20:02:24,625 [INFO] 
+==================================================
+  PORTFOLIO SUMMARY
+==================================================
+  Cash:          $42.40
+  Positions:     5
+  Total Value:   $106.24
+  P&L:           $+6.24 (+6.2%)
+  Target:        $200.00 (need +93.76)
+  Trades Made:   13
+==================================================
+  OPEN POSITIONS:
+    TQQQ        0.3064 shares @ $48.96  now $55.65  val=$17.05  +13.7%
+    NIO         2.4712 shares @ $6.07  now $6.42  val=$15.86  +5.8%
+    FNGU        0.0031 shares @ $19.12  now $23.50  val=$0.07  +22.9%
+    DOGE-USD    162.0636 shares @ $0.09  now $0.10  val=$15.56  +3.7%
+    AVAX-USD    1.6083 shares @ $9.33  now $9.51  val=$15.30  +2.0%
+==================================================
