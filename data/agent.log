@@ -2676,3 +2676,34 @@
     DOGE-USD    162.0636 shares @ $0.09  now $0.09  val=$15.35  +2.3%
     AVAX-USD    1.6083 shares @ $9.33  now $9.21  val=$14.81  -1.2%
 ==================================================
+2026-04-20 17:35:27,199 [INFO] ==================================================
+2026-04-20 17:35:27,199 [INFO] Starting trading cycle
+2026-04-20 17:35:27,834 [INFO] TAKE PROFIT: TQQQ at 17.9% — selling 50%
+2026-04-20 17:35:27,835 [INFO] TAKE PROFIT: FNGU at 19.5% — selling 50%
+2026-04-20 17:35:27,837 [INFO] Scanning 28 assets...
+2026-04-20 17:35:30,559 [INFO] Got signals for 28 assets
+2026-04-20 17:35:30,560 [INFO]   TSLA       score=+0.23  price=$392.28  rsi=56  mom=11.2%  vol_ratio=0.7
+2026-04-20 17:35:30,560 [INFO]   NVDA       score=+0.20  price=$199.57  rsi=68  mom=12.3%  vol_ratio=0.5
+2026-04-20 17:35:30,560 [INFO]   COIN       score=+0.20  price=$206.95  rsi=65  mom=18.4%  vol_ratio=0.5
+2026-04-20 17:35:30,560 [INFO]   SOFI       score=+0.20  price=$19.42  rsi=68  mom=19.4%  vol_ratio=0.6
+2026-04-20 17:35:30,560 [INFO]   RIVN       score=+0.20  price=$16.88  rsi=61  mom=10.4%  vol_ratio=0.5
+2026-04-20 17:35:30,560 [INFO]   FNGU       score=+0.20  price=$22.84  rsi=67  mom=35.6%  vol_ratio=0.8
+2026-04-20 17:35:30,560 [INFO] Max positions reached, skipping buys
+2026-04-20 17:35:30,635 [INFO] 
+==================================================
+  PORTFOLIO SUMMARY
+==================================================
+  Cash:          $59.87
+  Positions:     5
+  Total Value:   $106.55
+  P&L:           $+6.55 (+6.6%)
+  Target:        $200.00 (need +93.45)
+  Trades Made:   88
+==================================================
+  OPEN POSITIONS:
+    TQQQ        0.0000 shares @ $48.96  now $57.70  val=$0.00  +17.9%
+    NIO         2.4712 shares @ $6.07  now $6.66  val=$16.47  +9.8%
+    FNGU        0.0000 shares @ $19.12  now $22.84  val=$0.00  +19.5%
+    DOGE-USD    162.0636 shares @ $0.09  now $0.09  val=$15.39  +2.6%
+    AVAX-USD    1.6083 shares @ $9.33  now $9.22  val=$14.83  -1.1%
+==================================================
