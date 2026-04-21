@@ -2828,3 +2828,36 @@
     DOGE-USD    162.0636 shares @ $0.09  now $0.10  val=$15.46  +3.1%
     AVAX-USD    1.6083 shares @ $9.33  now $9.43  val=$15.17  +1.1%
 ==================================================
+2026-04-21 16:09:13,756 [INFO] ==================================================
+2026-04-21 16:09:13,756 [INFO] Starting trading cycle
+2026-04-21 16:09:14,450 [INFO] TAKE PROFIT: TQQQ at 18.8% — selling 50%
+2026-04-21 16:09:14,452 [INFO] TAKE PROFIT: FNGU at 20.7% — selling 50%
+2026-04-21 16:09:14,453 [INFO] Scanning 28 assets...
+2026-04-21 16:09:18,454 [INFO] Got signals for 28 assets
+2026-04-21 16:09:18,454 [INFO]   TSLA       score=+0.27  price=$390.34  rsi=55  mom=12.6%  vol_ratio=0.4
+2026-04-21 16:09:18,454 [INFO]   NVDA       score=+0.20  price=$200.62  rsi=69  mom=12.6%  vol_ratio=0.3
+2026-04-21 16:09:18,454 [INFO]   COIN       score=+0.23  price=$201.74  rsi=59  mom=15.2%  vol_ratio=0.6
+2026-04-21 16:09:18,454 [INFO]   SOFI       score=+0.20  price=$19.24  rsi=65  mom=19.4%  vol_ratio=0.6
+2026-04-21 16:09:18,454 [INFO]   RIVN       score=+0.20  price=$17.24  rsi=64  mom=17.4%  vol_ratio=0.4
+2026-04-21 16:09:18,454 [INFO]   NIO        score=+0.20  price=$6.53  rsi=58  mom=6.3%  vol_ratio=0.4
+2026-04-21 16:09:18,455 [INFO]   HOOD       score=+0.20  price=$87.80  rsi=64  mom=26.1%  vol_ratio=0.5
+2026-04-21 16:09:18,455 [INFO]   FNGU       score=+0.20  price=$23.10  rsi=68  mom=33.9%  vol_ratio=0.3
+2026-04-21 16:09:18,455 [INFO] Max positions reached, skipping buys
+2026-04-21 16:09:18,520 [INFO] 
+==================================================
+  PORTFOLIO SUMMARY
+==================================================
+  Cash:          $59.87
+  Positions:     5
+  Total Value:   $106.45
+  P&L:           $+6.45 (+6.5%)
+  Target:        $200.00 (need +93.55)
+  Trades Made:   98
+==================================================
+  OPEN POSITIONS:
+    TQQQ        0.0000 shares @ $48.96  now $58.15  val=$0.00  +18.8%
+    NIO         2.4712 shares @ $6.07  now $6.53  val=$16.13  +7.5%
+    FNGU        0.0000 shares @ $19.12  now $23.08  val=$0.00  +20.7%
+    DOGE-USD    162.0636 shares @ $0.09  now $0.09  val=$15.38  +2.6%
+    AVAX-USD    1.6083 shares @ $9.33  now $9.37  val=$15.07  +0.5%
+==================================================
