@@ -3523,3 +3523,42 @@
     DOGE-USD    162.0636 shares @ $0.09  now $0.10  val=$15.88  +5.9%
     AVAX-USD    1.6083 shares @ $9.33  now $9.43  val=$15.17  +1.1%
 ==================================================
+2026-04-24 19:28:29,024 [INFO] ==================================================
+2026-04-24 19:28:29,025 [INFO] Starting trading cycle
+2026-04-24 19:28:29,627 [INFO] TAKE PROFIT: TQQQ at 27.6% — selling 50%
+2026-04-24 19:28:29,630 [INFO] TAKE PROFIT: FNGU at 29.3% — selling 50%
+2026-04-24 19:28:29,633 [INFO] Scanning 28 assets...
+2026-04-24 19:28:32,154 [INFO] Got signals for 28 assets
+2026-04-24 19:28:32,155 [INFO]   TSLA       score=+0.20  price=$376.73  rsi=49  mom=8.0%  vol_ratio=0.8
+2026-04-24 19:28:32,155 [INFO]   AMD        score=+0.35  price=$346.18  rsi=89  mom=41.3%  vol_ratio=1.9
+2026-04-24 19:28:32,155 [INFO]   COIN       score=+0.27  price=$200.35  rsi=56  mom=19.4%  vol_ratio=0.4
+2026-04-24 19:28:32,155 [INFO]   SOFI       score=+0.27  price=$18.52  rsi=56  mom=14.2%  vol_ratio=0.5
+2026-04-24 19:28:32,155 [INFO]   PLTR       score=+0.27  price=$143.09  rsi=49  mom=11.7%  vol_ratio=0.6
+2026-04-24 19:28:32,155 [INFO]   RIVN       score=+0.20  price=$16.43  rsi=53  mom=6.5%  vol_ratio=0.7
+2026-04-24 19:28:32,155 [INFO]   MSTR       score=+0.20  price=$171.74  rsi=67  mom=33.5%  vol_ratio=0.6
+2026-04-24 19:28:32,155 [INFO]   SHOP       score=+0.27  price=$125.87  rsi=53  mom=13.6%  vol_ratio=0.8
+2026-04-24 19:28:32,155 [INFO]   HOOD       score=+0.27  price=$84.58  rsi=57  mom=22.2%  vol_ratio=0.5
+2026-04-24 19:28:32,155 [INFO]   AFRM       score=+0.24  price=$64.01  rsi=66  mom=31.9%  vol_ratio=0.5
+2026-04-24 19:28:32,155 [INFO]   XRP-USD    score=+0.20  price=$1.44  rsi=57  mom=5.6%  vol_ratio=0.9
+2026-04-24 19:28:32,155 [INFO]   UPRO       score=+0.20  price=$126.84  rsi=70  mom=15.3%  vol_ratio=0.8
+2026-04-24 19:28:32,155 [INFO]   SPXL       score=+0.20  price=$241.86  rsi=69  mom=15.3%  vol_ratio=0.6
+2026-04-24 19:28:32,155 [INFO]   FNGU       score=+0.20  price=$24.72  rsi=68  mom=26.3%  vol_ratio=0.8
+2026-04-24 19:28:32,155 [INFO] Max positions reached, skipping buys
+2026-04-24 19:28:32,209 [INFO] 
+==================================================
+  PORTFOLIO SUMMARY
+==================================================
+  Cash:          $59.87
+  Positions:     5
+  Total Value:   $106.31
+  P&L:           $+6.31 (+6.3%)
+  Target:        $200.00 (need +93.69)
+  Trades Made:   136
+==================================================
+  OPEN POSITIONS:
+    TQQQ        0.0000 shares @ $48.96  now $62.49  val=$0.00  +27.6%
+    NIO         2.4712 shares @ $6.07  now $6.22  val=$15.36  +2.4%
+    FNGU        0.0000 shares @ $19.12  now $24.72  val=$0.00  +29.3%
+    DOGE-USD    162.0636 shares @ $0.09  now $0.10  val=$15.93  +6.2%
+    AVAX-USD    1.6083 shares @ $9.33  now $9.42  val=$15.15  +1.0%
+==================================================
