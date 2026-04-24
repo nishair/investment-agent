@@ -3407,3 +3407,40 @@
     DOGE-USD    162.0636 shares @ $0.09  now $0.10  val=$15.88  +5.8%
     AVAX-USD    1.6083 shares @ $9.33  now $9.44  val=$15.18  +1.2%
 ==================================================
+2026-04-24 16:03:49,231 [INFO] ==================================================
+2026-04-24 16:03:49,231 [INFO] Starting trading cycle
+2026-04-24 16:03:49,984 [INFO] TAKE PROFIT: TQQQ at 27.0% — selling 50%
+2026-04-24 16:03:49,986 [INFO] TAKE PROFIT: FNGU at 27.6% — selling 50%
+2026-04-24 16:03:49,989 [INFO] Scanning 28 assets...
+2026-04-24 16:03:54,179 [INFO] Got signals for 28 assets
+2026-04-24 16:03:54,179 [INFO]   TSLA       score=+0.20  price=$373.63  rsi=48  mom=7.1%  vol_ratio=0.5
+2026-04-24 16:03:54,180 [INFO]   COIN       score=+0.21  price=$199.31  rsi=56  mom=18.7%  vol_ratio=0.3
+2026-04-24 16:03:54,180 [INFO]   SOFI       score=+0.27  price=$18.40  rsi=55  mom=13.4%  vol_ratio=0.3
+2026-04-24 16:03:54,180 [INFO]   RIVN       score=+0.20  price=$16.61  rsi=55  mom=7.7%  vol_ratio=0.3
+2026-04-24 16:03:54,180 [INFO]   MSTR       score=+0.20  price=$170.65  rsi=66  mom=32.7%  vol_ratio=0.4
+2026-04-24 16:03:54,180 [INFO]   SHOP       score=+0.27  price=$123.93  rsi=51  mom=11.9%  vol_ratio=0.3
+2026-04-24 16:03:54,180 [INFO]   HOOD       score=+0.27  price=$84.06  rsi=57  mom=21.5%  vol_ratio=0.3
+2026-04-24 16:03:54,180 [INFO]   AFRM       score=+0.24  price=$63.66  rsi=66  mom=31.2%  vol_ratio=0.3
+2026-04-24 16:03:54,180 [INFO]   ADA-USD    score=+0.20  price=$0.25  rsi=50  mom=5.1%  vol_ratio=0.8
+2026-04-24 16:03:54,180 [INFO]   UPRO       score=+0.20  price=$126.74  rsi=70  mom=15.2%  vol_ratio=0.5
+2026-04-24 16:03:54,180 [INFO]   SPXL       score=+0.20  price=$241.62  rsi=69  mom=15.2%  vol_ratio=0.4
+2026-04-24 16:03:54,180 [INFO]   FNGU       score=+0.20  price=$24.40  rsi=67  mom=24.7%  vol_ratio=0.5
+2026-04-24 16:03:54,180 [INFO] Max positions reached, skipping buys
+2026-04-24 16:03:54,253 [INFO] 
+==================================================
+  PORTFOLIO SUMMARY
+==================================================
+  Cash:          $59.87
+  Positions:     5
+  Total Value:   $106.30
+  P&L:           $+6.30 (+6.3%)
+  Target:        $200.00 (need +93.70)
+  Trades Made:   130
+==================================================
+  OPEN POSITIONS:
+    TQQQ        0.0000 shares @ $48.96  now $62.18  val=$0.00  +27.0%
+    NIO         2.4712 shares @ $6.07  now $6.20  val=$15.33  +2.2%
+    FNGU        0.0000 shares @ $19.12  now $24.40  val=$0.00  +27.6%
+    DOGE-USD    162.0636 shares @ $0.09  now $0.10  val=$15.88  +5.9%
+    AVAX-USD    1.6083 shares @ $9.33  now $9.46  val=$15.21  +1.4%
+==================================================
