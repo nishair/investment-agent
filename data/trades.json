@@ -1897,5 +1897,23 @@
     "value": 8.63,
     "reason": "take-profit at 15.0%",
     "timestamp": "2026-04-30T15:08:19.611426"
+  },
+  {
+    "ticker": "TQQQ",
+    "side": "sell",
+    "shares": 0.0,
+    "price": 62.00809860229492,
+    "value": 0.0,
+    "reason": "take-profit at 26.7%",
+    "timestamp": "2026-04-30T16:56:08.962026"
+  },
+  {
+    "ticker": "FNGU",
+    "side": "sell",
+    "shares": 0.0,
+    "price": 23.520299911499023,
+    "value": 0.0,
+    "reason": "take-profit at 23.0%",
+    "timestamp": "2026-04-30T16:56:08.964847"
   }
 ]

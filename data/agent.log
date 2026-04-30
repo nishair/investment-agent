@@ -4869,3 +4869,30 @@
     DOGE-USD    81.0318 shares @ $0.09  now $0.11  val=$8.63  +15.0%
     AVAX-USD    1.6083 shares @ $9.33  now $9.12  val=$14.67  -2.2%
 ==================================================
+2026-04-30 16:56:07,247 [INFO] ==================================================
+2026-04-30 16:56:07,248 [INFO] Starting trading cycle
+2026-04-30 16:56:08,961 [INFO] TAKE PROFIT: TQQQ at 26.7% — selling 50%
+2026-04-30 16:56:08,964 [INFO] TAKE PROFIT: FNGU at 23.0% — selling 50%
+2026-04-30 16:56:08,968 [INFO] Scanning 28 assets...
+2026-04-30 16:56:15,464 [INFO] Got signals for 28 assets
+2026-04-30 16:56:15,464 [INFO]   MSTR       score=+0.27  price=$163.88  rsi=59  mom=10.0%  vol_ratio=0.4
+2026-04-30 16:56:15,464 [INFO]   DOGE-USD   score=+0.27  price=$0.11  rsi=70  mom=11.5%  vol_ratio=1.7
+2026-04-30 16:56:15,464 [INFO] Max positions reached, skipping buys
+2026-04-30 16:56:15,648 [INFO] 
+==================================================
+  PORTFOLIO SUMMARY
+==================================================
+  Cash:          $68.50
+  Positions:     5
+  Total Value:   $107.29
+  P&L:           $+7.29 (+7.3%)
+  Target:        $200.00 (need +92.71)
+  Trades Made:   213
+==================================================
+  OPEN POSITIONS:
+    TQQQ        0.0000 shares @ $48.96  now $62.01  val=$0.00  +26.7%
+    NIO         2.4712 shares @ $6.07  now $6.30  val=$15.56  +3.7%
+    FNGU        0.0000 shares @ $19.12  now $23.52  val=$0.00  +23.0%
+    DOGE-USD    81.0318 shares @ $0.09  now $0.11  val=$8.61  +14.8%
+    AVAX-USD    1.6083 shares @ $9.33  now $9.10  val=$14.64  -2.4%
+==================================================
