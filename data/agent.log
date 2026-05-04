@@ -5772,3 +5772,34 @@
     DOGE-USD    0.0000 shares @ $0.09  now $0.11  val=$0.00  +19.9%
     AVAX-USD    1.6083 shares @ $9.33  now $9.23  val=$14.84  -1.0%
 ==================================================
+2026-05-04 19:03:44,003 [INFO] ==================================================
+2026-05-04 19:03:44,003 [INFO] Starting trading cycle
+2026-05-04 19:03:44,636 [INFO] TAKE PROFIT: TQQQ at 32.2% — selling 50%
+2026-05-04 19:03:44,641 [INFO] TAKE PROFIT: FNGU at 34.0% — selling 50%
+2026-05-04 19:03:44,645 [INFO] TAKE PROFIT: DOGE-USD at 19.8% — selling 50%
+2026-05-04 19:03:44,648 [INFO] Scanning 28 assets...
+2026-05-04 19:03:47,270 [INFO] Got signals for 28 assets
+2026-05-04 19:03:47,270 [INFO]   PLTR       score=+0.23  price=$147.66  rsi=55  mom=1.2%  vol_ratio=0.8
+2026-05-04 19:03:47,270 [INFO]   BTC-USD    score=+0.34  price=$80087.69  rsi=66  mom=3.4%  vol_ratio=1.6
+2026-05-04 19:03:47,270 [INFO]   DOGE-USD   score=+0.21  price=$0.11  rsi=76  mom=12.7%  vol_ratio=1.5
+2026-05-04 19:03:47,270 [INFO]   LINK-USD   score=+0.23  price=$9.43  rsi=56  mom=0.6%  vol_ratio=1.9
+2026-05-04 19:03:47,271 [INFO]   FNGU       score=+0.24  price=$25.63  rsi=69  mom=11.1%  vol_ratio=0.9
+2026-05-04 19:03:47,271 [INFO] Max positions reached, skipping buys
+2026-05-04 19:03:47,338 [INFO] 
+==================================================
+  PORTFOLIO SUMMARY
+==================================================
+  Cash:          $77.24
+  Positions:     5
+  Total Value:   $107.23
+  P&L:           $+7.23 (+7.2%)
+  Target:        $200.00 (need +92.77)
+  Trades Made:   310
+==================================================
+  OPEN POSITIONS:
+    TQQQ        0.0000 shares @ $48.96  now $64.73  val=$0.00  +32.2%
+    NIO         2.4712 shares @ $6.07  now $6.11  val=$15.11  +0.7%
+    FNGU        0.0000 shares @ $19.12  now $25.63  val=$0.00  +34.0%
+    DOGE-USD    0.0000 shares @ $0.09  now $0.11  val=$0.00  +19.8%
+    AVAX-USD    1.6083 shares @ $9.33  now $9.25  val=$14.88  -0.8%
+==================================================
