@@ -3085,5 +3085,32 @@
     "value": 0.0,
     "reason": "take-profit at 16.3%",
     "timestamp": "2026-05-07T17:17:51.374443"
+  },
+  {
+    "ticker": "TQQQ",
+    "side": "sell",
+    "shares": 0.0,
+    "price": 71.15499877929688,
+    "value": 0.0,
+    "reason": "take-profit at 45.3%",
+    "timestamp": "2026-05-07T19:14:02.526232"
+  },
+  {
+    "ticker": "FNGU",
+    "side": "sell",
+    "shares": 0.0,
+    "price": 27.25,
+    "value": 0.0,
+    "reason": "take-profit at 42.5%",
+    "timestamp": "2026-05-07T19:14:02.531640"
+  },
+  {
+    "ticker": "DOGE-USD",
+    "side": "sell",
+    "shares": 0.0,
+    "price": 0.10817000269889832,
+    "value": 0.0,
+    "reason": "take-profit at 16.9%",
+    "timestamp": "2026-05-07T19:14:02.535602"
   }
 ]
